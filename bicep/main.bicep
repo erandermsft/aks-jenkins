@@ -2,7 +2,7 @@
 
 // External params
 param resourcename string
-param admingroupobjectid string = '4af8212d-ecfa-4ee9-bd37-d46aaadaf064'
+param admingroupobjectid string  = ''
 param allowedhostIp string = ''
 @secure()
 param vmpwd string = ''
